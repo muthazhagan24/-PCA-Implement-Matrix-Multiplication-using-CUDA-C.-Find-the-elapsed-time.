@@ -1,9 +1,6 @@
+# PCA-EXP-5-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time.
 ### Name: Sri muthazhagan P
 ### Register Number: 2305002024
-
-# PCA-EXP-5-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time.
-## NAME:Balaji N
-## REG NO: 2305002002
 
 ## Aim:
 To implement Matrix Multiplication using CUDA C on the GPU and measure the elapsed execution time.
